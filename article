@@ -1,9 +1,57 @@
 [
   {
-    "id": "E8EFC5FF-CC6F-4F4E-B5CF-31DDC7C96C77",
-    "title": "How to build a healthy credit score",
-    "imageURL": "https://your-cdn.com/images/credit-score.png",
-    "shortDescription": "Simple steps to avoid common mistakes.",
-    "body": "Long markdown or plain text of the article..."
+    "id": "A1E1C20D-4316-41D9-9AA3-F3911B0A93F1",
+    "title": "How to Build a Healthy Credit Score",
+    "imageURL": "https://i.ibb.co/DgQQTR48/img01.jpg",
+    "shortDescription": "Easy habits that help you build and maintain a strong credit profile.",
+    "body": "A healthy credit score is not built overnight—it is the result of consistent financial habits. The most important factors include paying bills on time, keeping credit utilization low (below 30%), avoiding unnecessary hard inquiries, and maintaining older accounts to grow your credit age.\n\nYou should also monitor your credit report regularly. Many people discover errors—incorrect balances, unknown accounts, or outdated late payments.\n\n**Quick tips:**\n• Pay your bills before the due date.\n• Keep your credit card usage under 30%.\n• Do not open too many new accounts at once.\n• Check your credit report at least twice per year.\n\nImproving your credit score helps reduce loan interest rates and increases your financial stability."
+  },
+
+  {
+    "id": "B9E3A3D2-9096-4D4A-83C1-CF0FC89213AB",
+    "title": "How to Create a Simple Monthly Budget",
+    "imageURL": "https://i.ibb.co/1GwcYD84/img02.jpg",
+    "shortDescription": "A step-by-step guide to understanding where your money goes.",
+    "body": "Creating a monthly budget is one of the most effective tools for financial control. Start by calculating your total monthly income, including salary, bonuses and side income. Then divide your expenses into fixed (rent, loans, utilities) and variable (food, entertainment, transportation).\n\nA popular rule is the **50/30/20 model**:\n• 50% — needs\n• 30% — wants\n• 20% — savings and debt payments\n\nTrack your spending with apps or a simple spreadsheet. Review your budget each month to adjust it as your life changes."
+  },
+
+  {
+    "id": "C4BA12F7-3C3C-420A-9A0D-9D51F0B17C77",
+    "title": "Understanding Interest Rates and APR",
+    "imageURL": "https://i.ibb.co/wNKWPy3g/img03.jpg",
+    "shortDescription": "Learn what lenders don’t always explain.",
+    "body": "Interest rate is the percentage you pay for borrowing money, but APR (Annual Percentage Rate) is the true cost of the loan, including commissions, fees and additional charges.\n\nTwo loans may have the same interest rate but very different APR. Always compare APR when choosing between offers.\n\n**Key differences:**\n• Interest rate — cost of borrowing.\n• APR — cost of borrowing + all fees.\n\nHigher APR usually means the loan is significantly more expensive even if the advertised rate looks attractive."
+  },
+
+  {
+    "id": "D11DBEEC-0C33-40B2-9885-69025E52B7A1",
+    "title": "How to Avoid Common Loan Mistakes",
+    "imageURL": "https://i.ibb.co/yncKxz0w/img04.jpg",
+    "shortDescription": "The most frequent traps people fall into—and how to avoid them.",
+    "body": "Common loan mistakes include borrowing more than necessary, not checking the APR, missing payment deadlines and ignoring early repayment rules.\n\nAlways read the contract carefully—some lenders include administrative or insurance fees that significantly increase the final cost.\n\nNever take a loan under pressure or without comparing at least two offers.\n\nAvoid late payments at all cost—they damage your credit score and increase the cost due to penalties."
+  },
+
+  {
+    "id": "E6F8B8C4-95F0-4DAC-9DB1-42A8FC123884",
+    "title": "How to Build an Emergency Fund",
+    "imageURL": "https://i.ibb.co/JW6bCBYK/img05.jpg",
+    "shortDescription": "A financial cushion for unexpected situations.",
+    "body": "An emergency fund protects you from unexpected expenses—medical bills, job loss, urgent repairs. Most financial experts recommend saving **3–6 months of essential expenses**.\n\nStart small: even $5–10 per day or week builds up over time. Keep your emergency fund separate from your main spending account to avoid temptation.\n\nA healthy emergency fund gives you confidence and reduces the need for expensive short-term loans."
+  },
+
+  {
+    "id": "F2A5A9D0-37F8-47E0-BBAE-4B7EADA41403",
+    "title": "How to Choose the Right Loan for Your Needs",
+    "imageURL": "https://i.ibb.co/3ynYXCDR/img06.jpg",
+    "shortDescription": "Not all loans work for every situation—here’s how to pick wisely.",
+    "body": "Before choosing a loan, identify why you need it. Different loan types are designed for different goals: personal loans, credit cards, emergency loans, car loans, and more.\n\nCompare these factors:\n• Loan term (short or long?)\n• APR (always check this first)\n• Penalties and fees\n• Flexibility of payments\n\nA loan should solve your problem—not create new ones. Pick the option with the lowest total cost and the most transparent terms."
+  },
+
+  {
+    "id": "01DB4A02-4D5B-4FD0-9FD0-903A078FFE07",
+    "title": "How to Recognize Financial Scams",
+    "imageURL": "https://your-cdn.com/images/scam-warning.jpg",
+    "shortDescription": "Protect your money by learning the warning signs.",
+    "body": "Financial scams often look like legitimate offers. Warning signs include promises of “guaranteed approval”, requests for upfront payments, fake investment schemes and aggressive sales tactics.\n\nAlways verify companies through official websites. Never share personal data through unknown links.\n\nIf something sounds too good to be true—it usually is.\n\nUnderstanding these signals keeps your finances safe."
   }
 ]
